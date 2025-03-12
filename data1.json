@@ -1,0 +1,12 @@
+{
+    "name": "LaMonte Golden",
+    "age": 54,
+    "city": "Seattle,WA",
+    "interest": [
+        "music",
+        "football",
+        "drawing",
+        "politics"
+    ],
+    "is_student": true
+}

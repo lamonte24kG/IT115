@@ -1,7 +1,7 @@
 #import json library
 import json
 
-#create the data dictionary
+#create the json dictionary
 
 data = {
 
